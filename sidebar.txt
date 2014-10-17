@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tyh:home|Door43 (tyh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tyh|d43-tyh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tyh/archive/master.zip|d43-tyh.zip]]
+
+**Recent Changes**
+{{changes>ns = tyh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tyh|Ethnologue data]]
+
